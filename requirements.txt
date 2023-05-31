@@ -1,0 +1,5 @@
+pynetbox==6.6.2
+qualysapi==8.0.1
+requests==2.28.0
+jira==3.1.1
+urllib3==1.26.7
